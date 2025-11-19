@@ -1,0 +1,103 @@
+App keeps crashing immediately after entering my PIN.
+OTP not delivering to my phone number for over 30 minutes.
+Forced to update the app but Play Store says “not available in your country”.
+After update, the app is just showing white screen.
+Login failed, says “incorrect password” even though I just reset it 5 minutes ago.
+App extremely slow, takes 2 minutes to load dashboard.
+Frequent logouts every 10 minutes.
+UI elements not loading, just blank spaces.
+Phone verification failed, says number already in use but it's mine.
+App freezing when I try to scroll transactions.
+Can't change profile picture, upload failed.
+Dashboard widgets not rearranging.
+App says "no internet" even on strong Wi-Fi.
+Forgot password link expired immediately.
+App draining battery too fast since last update.
+Can't turn off transaction notifications, too many.
+App language stuck in English, can't change.
+Bottom navigation bar disappeared.
+App says update required but no update in store.
+Fingerprint login stopped working after update.
+App size too big now, over 300MB.
+Can't copy transaction reference.
+App crashes when opening chat support.
+Dark mode not applying properly.
+App says "session expired" every time I switch apps.
+Can't find the logout button anymore.
+App not compatible with my Android 14.
+Splash screen stuck forever.
+App asks for location permission every launch.
+Can't clear app cache from inside app.
+App notifications delayed by hours.
+Home screen blank after login.
+App says "rate limited" for normal actions.
+Can't report bug from inside app.
+App icon changed without update.
+Transaction list not refreshing, pull down not working.
+App says "device rooted" but my phone is not.
+Can't hide balance on home screen.
+App crashing on iOS 18.
+Support chat not connecting.
+App asks for BVN again every week.
+Can't zoom in on receipts.
+App volume too loud on startup sound.
+Dashboard cards overlapping.
+App says offline mode not supported anymore.
+Can't share app referral link.
+App crashes when rotating screen.
+Profile name not updating.
+App says "maintenance" every night.
+Can't disable haptic feedback.
+App search bar not working.
+Transaction categories missing.
+App says "upgrade to premium" popup every minute.
+Can't delete transaction notes.
+App background refresh disabled itself.
+Splash screen logo blurry.
+App not opening from notification.
+Can't change app theme color.
+App says storage permission denied but I allowed.
+Transaction filters reset every time.
+App crashes on low battery.
+Can't find settings menu.
+App says "new version available" but none in store.
+Dashboard loading spinner forever.
+App not working on tablet.
+Can't screenshot app, black screen.
+App says "unknown error 500".
+Referral bonus not tracking.
+App says face ID not enrolled but it is.
+Can't reorder dashboard widgets.
+App notification badge wrong number.
+Transaction tags not saving.
+App says "network error" on mobile data only.
+Can't export data.
+App crashes when opening FAQs.
+Profile picture upside down.
+App says "location services required" for no reason.
+Can't mute support bot.
+App update failed, corrupted.
+Transaction timeline view broken.
+App says "too many devices" but only one.
+Can't remove old device from list.
+App loading old version after update.
+Dashboard balance animation annoying.
+App says "contact support" loop.
+Can't find airtime purchase.
+App crashes on emoji in notes.
+Referral code not applying.
+App says "service unavailable in your region".
+Can't change notification sound.
+App background too bright in dark mode.
+Transaction details not expandable.
+App says "beta feature" but I'm not in beta.
+Can't disable auto-update.
+App freezes on splash screen.
+Support ticket status not updating.
+App says "syncing" forever.
+Can't find bills payment.
+App crashes when typing long note.
+Dashboard empty, says no transactions but I have many.
+App says "re-login required" every hour.
+Can't share transaction proof.
+App update stuck at 99%.

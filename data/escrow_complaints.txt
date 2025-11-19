@@ -1,0 +1,103 @@
+The seller is not responding for 4 days and the escrow is still not released. I already shipped the item with tracking.
+Buyer cancelled the transaction but money is still locked in escrow. Please release my funds.
+I confirmed delivery but payment is not released to seller account. It's been 48 hours already.
+Dispute raised but no admin is responding. This is over ₦250,000 stuck!
+Chat in escrow not loading, I can't communicate with the buyer.
+Seller marked item as shipped but tracking number is fake. Please intervene.
+Escrow timer expired but funds not auto-released to me as seller.
+Buyer is refusing to confirm delivery even after receiving the phone.
+I paid into escrow but seller never shipped anything. Need refund now.
+Release button is greyed out even after buyer confirmed delivery.
+Escrow amount is wrong, I sent ₦150,000 but it shows ₦145,000.
+Can't join the escrow link sent by seller, says "invalid or expired".
+Seller changed mind after I paid into escrow. Please cancel and refund.
+Dispute resolution taking too long, it's been 12 days already.
+Buyer uploaded fake proof of delivery. This is fraud!
+Escrow chat messages not delivering, shows single tick only.
+I’m the seller, buyer confirmed delivery but money still held.
+Admin closed dispute in favor of buyer but I never received payment.
+Can't upload tracking proof in the escrow interface.
+Escrow fee deducted twice from my wallet.
+Seller is threatening me in chat to cancel the deal.
+Funds stuck in escrow after app update, please fix.
+Buyer opened dispute for no reason after receiving item in perfect condition.
+Escrow not creating, keeps saying "transaction failed, try again".
+I released payment by mistake, can you reverse it?
+Seller account deleted but money still in escrow.
+Dispute evidence not uploading, file size error.
+Buyer is asking for extra money outside escrow, reported but no action.
+Escrow auto-cancelled but funds not returned to my wallet.
+Can't see escrow history in the app anymore.
+Seller marked as shipped but no tracking provided for 5 days.
+Payment released to wrong seller account.
+Escrow link not opening on my phone, works on browser though.
+Buyer confirmed delivery but later opened dispute saying item damaged.
+I’m locked out of escrow chat after too many messages.
+Escrow period extended without my consent.
+Seller not uploading invoice, delaying everything.
+Funds released but seller says never received it.
+Dispute admin asking for bribe on WhatsApp, please investigate.
+Can't extend escrow timer, button missing.
+Buyer changed delivery address after payment.
+Escrow shows completed but balance not credited.
+Seller cancelled escrow but I already shipped the laptop!
+Proof of delivery rejected for no reason.
+Escrow chat deleted all messages suddenly.
+I was charged escrow fee but transaction cancelled.
+Buyer is ghosting after I shipped the item.
+Escrow not showing in my transactions list.
+Seller uploaded wrong tracking number.
+Dispute closed but no refund issued yet.
+Can't report seller in escrow anymore.
+Funds on hold for "verification" for 7 days now.
+Buyer opened multiple disputes on same escrow.
+Escrow amount deducted but not credited to deal.
+Seller is blackmailing for release outside platform.
+I confirmed delivery by mistake, item was not delivered.
+Escrow expired but funds vanished.
+Chat not syncing between buyer and seller.
+Dispute evidence limit too small, can't upload video.
+Seller account suspended but money still locked.
+Buyer asking to release early without shipping proof.
+Escrow notification not coming anymore.
+Wrong escrow fee percentage applied.
+Can't leave review after escrow completion.
+Seller changed phone number, can't contact.
+Dispute resolved but funds went to wrong wallet.
+Escrow timer counting wrong, shows negative.
+Buyer uploaded photoshopped receipt.
+I’m seller, buyer confirmed but payment not released after 72 hours.
+Escrow link says "already used" but I never joined.
+Funds stuck after server maintenance.
+Seller marked delivered but item not received.
+Dispute admin not replying to my messages.
+Escrow chat loading forever.
+Buyer cancelled but fee not refunded.
+Can't see buyer profile in escrow.
+Seller is offline for weeks, funds locked.
+Escrow auto-released to buyer even without confirmation.
+Wrong currency shown in escrow.
+Dispute button missing now.
+Seller demanding extra fee to release.
+Escrow history disappeared after logout.
+Buyer confirmed delivery twice by mistake.
+Funds released partially only.
+Chat stickers not working in escrow, minor but annoying.
+Seller changed terms after escrow started.
+Dispute timeline too short to respond.
+Escrow not showing on dashboard.
+Buyer reported item not received but tracking shows delivered.
+Admin reversed decision without notifying me.
+Escrow fee higher than advertised.
+Can't share files in escrow chat anymore.
+Seller blocked me in chat.
+Dispute evidence deleted by system.
+Funds on hold saying "suspicious activity".
+Buyer opened dispute after 30 days.
+Escrow cancelled but fee still charged.
+Seller using multiple accounts to scam.
+I released funds but buyer never shipped.
+Dispute admin biased toward buyer always.
+Escrow timer frozen at 2 hours left.
+Buyer changed mind after inspection period.
+Can't export escrow chat for evidence.

@@ -1,0 +1,102 @@
+Customer paid my payment link but the money is not showing in my dashboard.
+Settlement for last week has not hit my bank account yet, it's already Wednesday.
+Payment link expired while customer was trying to pay with card.
+I issued ₦87,000 invoice but customer was charged ₦87,500. Why the extra charge?
+Virtual account not receiving payments anymore, customers say "account not found".
+POS transaction successful but not reflecting in merchant wallet.
+Customer paid twice by mistake, how do I refund one?
+Settlement delay again, this is the third week.
+Payment link not opening on customer phone.
+Dashboard showing zero sales but I received alerts.
+Merchant verification still pending after 2 weeks.
+Customer used wrong reference but money came, can't trace.
+Invoice amount not editable after creation.
+Settlement failed, says "invalid bank details" but details correct.
+Payment link says "link disabled" suddenly.
+Multiple customers complaining card payment failed.
+Settlement amount less than expected sales.
+Can't generate new payment link, button missing.
+Customer paid but status still "pending".
+Merchant fee too high compared to competitors.
+Dashboard not loading transactions past 7 days.
+Virtual terminal not working on my phone.
+Settlement on hold for "review".
+Can't export sales report to Excel.
+Payment proof from customer not uploading.
+POS device not connecting to app.
+Settlement schedule changed without notice.
+Customer paid old link, money lost?
+Merchant wallet balance different from settlement.
+Can't add settlement bank account.
+Payment link custom amount not working.
+Dashboard frozen at loading.
+Customer charged but no notification to me.
+Settlement proof not generating.
+Virtual account number changed without notice.
+Can't close my merchant account.
+Payment link logo not showing.
+Transaction history duplicated.
+Settlement delayed due to public holiday but holiday over.
+Customer paid via USSD but not reflecting.
+Merchant support not replying tickets.
+Can't set settlement to daily.
+Payment link sharing to WhatsApp broken.
+POS receipt not printing amount correctly.
+Settlement minimum too high now.
+Customer overpaid, refund button missing.
+Dashboard analytics completely wrong.
+Virtual account rejected transfer from bank.
+Can't delete old payment links.
+Settlement reversed without reason.
+Payment link says "merchant suspended" but I'm active.
+Customer paid but invoice still unpaid status.
+POS battery draining too fast.
+Settlement bank name wrong in app.
+Can't integrate payment link to my website.
+Merchant KYC document rejected again.
+Payment link not accepting card anymore.
+Settlement notification stopped coming.
+Virtual account closed automatically.
+Customer paid wrong merchant by mistake.
+Dashboard login different from normal login.
+POS not accepting contactless.
+Settlement fees deducted twice.
+Can't see customer email in transactions.
+Payment link timeout too short.
+Merchant statement not downloadable.
+Virtual account balance not updating real-time.
+Customer dispute but money already settled to me.
+POS software update bricked device.
+Settlement on hold saying "high risk".
+Can't change merchant business name.
+Payment link not tracking conversions.
+Dashboard dark mode broken.
+Customer paid via transfer but manual confirmation needed.
+Settlement cycle too long (weekly).
+Virtual account not showing in bank app.
+Can't generate dynamic QR code.
+Merchant limit reached but no sales.
+Payment link description too short limit.
+Settlement proof email not coming.
+POS not syncing offline transactions.
+Customer paid but no order ID.
+Merchant verification SMS not coming.
+Can't add team member to dashboard.
+Payment link currency only NGN.
+Settlement delayed "technical issue" every week.
+Virtual account name mismatch.
+Dashboard transaction search not working.
+Customer paid expired link somehow.
+Merchant fee percentage increased silently.
+Can't withdraw from merchant wallet to main.
+Payment link not mobile responsive.
+Settlement bank sort code wrong.
+Virtual account blocked for transfers.
+Customer double charged on card.
+Dashboard crashed during peak sales.
+POS terminal says "merchant not found".
+Settlement report wrong dates.
+Can't set auto-expire on links.
+Merchant support chat offline always.
+Payment link not accepting Apple Pay.
+Virtual account closed due to inactivity but I use it daily.

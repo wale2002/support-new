@@ -1,0 +1,99 @@
+I transferred ₦50,000 to my Access bank but it's been pending since yesterday morning.
+Money left my wallet but never arrived in recipient's account. Ref: KLP23456789
+I got debited twice for the same transfer of ₦15,000.
+Tried adding my GTBank account but it keeps saying "invalid account number" even though it's correct.
+Wallet balance not updating after successful airtime purchase.
+Transfer failed but money deducted anyway.
+Received funds but notification never came.
+Can't send money to new bank account, says "not supported".
+Transfer limit suddenly reduced without notice.
+Money reversed but not credited back to wallet.
+Bank withdrawal taking more than 24 hours.
+I was debited ₦100,000 I never initiated.
+Transfer to wrong account number, can you reverse?
+Wallet to wallet transfer pending for 3 days.
+Name enquiry failed for recipient.
+Daily transfer limit reached but I only did one transaction.
+Can't remove old bank account linked.
+Transfer charges too high now.
+Money stuck in "processing" status.
+Beneficiary name not matching but account is correct.
+Transfer failed due to "network timeout" 10 times.
+Can't transfer to my own bank account.
+Reversed transaction not reflecting after 7 days.
+Wallet funded via card but balance zero.
+Transfer receipt not generating.
+Can't increase transfer limit in app.
+Money sent to closed bank account, where did it go?
+Transfer history not loading past 30 days.
+I received half the amount I was sent.
+Bank verification failed for my Zenith account.
+Transfer scheduled but never executed.
+Debit alert came but no transaction in history.
+Can't transfer above ₦50,000 suddenly.
+Money deducted for failed transfer.
+Wrong transfer charge applied (₦500 instead of ₦50).
+Wallet balance disappeared after logout.
+Transfer to Opay wallet failed repeatedly.
+Can't add virtual account as beneficiary.
+Reversal requested but no response for weeks.
+Transfer confirmation SMS delayed by hours.
+Bank sync not working, balance wrong.
+Money sent but recipient says not received after 48hrs.
+Transfer button greyed out.
+Can't delete transfer beneficiary.
+Funds frozen saying "under review".
+Transfer to international number not working.
+Debit for transfer but no credit to recipient.
+Wallet top-up via bank transfer not reflecting.
+Scheduled transfer cancelled automatically.
+Transfer limit reset not working.
+Money deducted but transfer status "cancelled".
+Can't transfer to my Kuda account.
+Reversal processing for 10 days now.
+Transfer failed, says "recipient bank offline".
+Wallet balance different on app and web.
+Transfer to same bank taking longer than instant.
+Can't see transfer reference number.
+Money sent twice by mistake, please reverse one.
+Bank account delinked itself.
+Transfer history duplicated entries.
+Charges deducted but transfer failed.
+Wallet loading spinner forever.
+Transfer to phone number not resolving name.
+Reversal done but wrong amount returned.
+Can't transfer during weekend now?
+Debit without my permission for "maintenance".
+Transfer proof not attaching in dispute.
+Wallet balance negative suddenly.
+Bank name changed but old one still showing.
+Transfer to wrong bank code by mistake.
+Can't set transfer PIN again.
+Money stuck after BVN mismatch error.
+Transfer limit too low for business.
+Reversed funds went to wrong wallet.
+Transfer notification turned off itself.
+Can't transfer to new generation banks.
+Debit alert in dollars but I use naira.
+Transfer failed but no reason given.
+Wallet top-up minimum too high now.
+Transfer to family member flagged as suspicious.
+Can't export transfer statement.
+Money deducted for "international fee" but local transfer.
+Transfer schedule deleted all my plans.
+Bank account number masked, can't copy.
+Transfer to saved beneficiary failed.
+Reversal reference not trackable.
+Wallet balance not syncing across devices.
+Transfer charges increased without notice.
+Can't transfer to my own account in another bank.
+Debit for transfer that never happened.
+Transfer status "completed" but recipient says no.
+Bank linkage expired suddenly.
+Transfer to email address not working.
+Money sent but no receipt email.
+Can't remove transfer limit warning.
+Transfer failed at 99%.
+Wallet frozen after too many transfers.
+Transfer to virtual card failed.
+Reversal taking longer than promised 48hrs.

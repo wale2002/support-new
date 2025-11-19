@@ -1,0 +1,103 @@
+Someone logged into my account from Lagos while I'm in Abuja. I got suspicious login alert.
+₦120,000 deducted from my wallet without my approval. I didn't initiate any transaction.
+I can't reset my transaction PIN, it says “too many attempts” but I only tried once.
+My email was changed without my consent. Please lock the account!
+Received fraud alert SMS but when I log in everything looks normal. Please check.
+Unknown device logged in, I don't recognize the IP.
+Account locked after 3 wrong PIN attempts, but I didn't try.
+Suspicious transfer to unknown account at 3am.
+Someone changed my BVN details.
+Fraudulent withdrawal from my linked bank.
+Phishing SMS pretending to be Kuleanpay support.
+Account hacked, all settings changed.
+Unknown login from abroad.
+Transaction I never did appeared in history.
+Someone tried to change my phone number 5 times.
+Security question answers reset without me.
+Got email about password change I didn't request.
+Two-factor authentication turned off itself.
+Someone added new bank account to my profile.
+Fraud alert for login from new device.
+Money transferred to unknown wallet.
+Can't enable biometric login anymore.
+Suspicious airtime purchase at midnight.
+Account balance wiped suddenly.
+Someone requested password reset for my email.
+Got call from "support" asking for OTP.
+Unknown beneficiary added to my list.
+Security notification emails stopped coming.
+Account says "compromised" but no details.
+Someone used my referral code fraudulently.
+Transaction PIN guessed somehow.
+Login from unknown browser.
+Money sent to scammer via payment link.
+Can't freeze my account from app.
+Fraud team not responding to report.
+Someone changed my KYC documents.
+Security hold on account for no reason.
+Unknown charges labeled "verification".
+Account login loop after security alert.
+Someone tried to verify new device 10 times.
+Fraudulent escrow created in my name.
+Can't remove unknown device from sessions.
+Security code SMS going to wrong number.
+Account says high-risk transactions.
+Someone used my account for money laundering.
+Fraud alert ignored, money gone.
+Can't change security questions.
+Unknown login attempts notification flood.
+Account password not working suddenly.
+Someone enabled unknown security feature.
+Fraud team asking for payment to resolve.
+Security logs not accessible.
+Account frozen but no email explanation.
+Someone added crypto wallet to my profile.
+Can't disable login alerts.
+Fraudulent merchant payment from my wallet.
+Security PIN blocked permanently.
+Unknown session active for days.
+Someone changed my date of birth in profile.
+Fraud report button missing.
+Account says "under investigation" for weeks.
+Someone used my account on emulator.
+Security notification language wrong.
+Can't lock card from app.
+Fraudulent reversal request.
+Account login from VPN I don't use.
+Someone uploaded fake ID for my KYC.
+Security alert for bulk transactions.
+Can't report suspicious activity.
+Account balance transferred out slowly.
+Someone disabled my 2FA.
+Fraud team closed ticket without resolution.
+Security update forced suspicious app.
+Unknown admin access to my account.
+Can't see active sessions list.
+Fraudulent loan taken in my name.
+Security question hint visible to others.
+Account says "breached" but no breach email.
+Someone changed my residential address.
+Fraud alert for login I did but from wrong location.
+Can't set transaction limit lower.
+Security code expired too fast.
+Account hacked via SIM swap.
+Someone used my details to open merchant.
+Fraud team phone number fake.
+Security logs tampered.
+Can't enable travel mode.
+Unknown IP whitelisted.
+Fraudulent support ticket in my name.
+Account password leaked somehow.
+Security notification turned off.
+Someone bypassed my PIN.
+Fraud report evidence not uploading.
+Account recovery going to wrong email.
+Security hold released money to hacker.
+Can't contact security team directly.
+Fraudulent chargeback on my merchant.
+Someone guessed my recovery code.
+Security alert SMS from wrong number.
+Account login without OTP suddenly.
+Fraud team never calls back.
+Security feature rollout suspicious.
+Can't delete account for security reasons.
